@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    background: black;
+}
+.navbar a {
+    float: center;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 25px;
+    font-size: 18px;
+    
+  }
+  .navbar{
+    background: black;
+    padding-bottom: 20px;
+  }
+.navbar img {
+float: left;
+color: black;
+margin-top: 8px;
+text-align: left;
+max-width: 170px;
+padding-left: 380px;
+padding-right: 190px;
+}
+.navlinks{
+    padding-top: 22px;
+}
+.navbar .btn1{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 18px 15px;
+    border-radius: 111px;
+    font-size: 16px;
+    margin-right: 22px;
+    margin-left: 22px;
+}
+.navbar .btn2{
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    padding: 18px 30px;
+    font-size: 16px;
+    border-radius: 111px;
+}
